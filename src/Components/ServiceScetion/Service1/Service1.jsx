@@ -1,4 +1,3 @@
-import React from "react";
 import SubService from "../SubService/SubService";
 import feature1 from "../../../assets/features/feature-1.png";
 import feature2 from "../../../assets/features/feature-2.png";
@@ -17,7 +16,7 @@ const Service1 = () => {
           ]}
           footerText="Deliver great service experiences fast - without the complexity of traditional ITSM solutions."
           imageSrc={feature1}
-          imageAlt="dashboard feature image"
+          imageAlt="feature image 1"
           imagePosition="right"
         />
         <SubService
